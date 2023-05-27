@@ -1,3 +1,5 @@
+// CartItem
+
 import { ChevronDown, ChevronUp } from "../icons";
 
 const CartItem = ({ id, img, title, price, amount }) => {
